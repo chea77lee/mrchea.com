@@ -18,6 +18,46 @@
 
 ---
 
+## STEP 0-1. Service Overview (입점 신청서용 영문 회사·서비스 소개)
+
+신청서 칸 길이에 맞춰 골라 쓰세요.
+
+### Short (약 300자)
+
+```
+Mr Chea (mrchea.com) is a Sydney-based tour operator run by Chea Lee, a bilingual (English and Korean) guide who has lived in Australia since 2003. We offer small-group and private tours in Sydney, including a sunrise Harbour Bridge running tour, city and day tours, and NSW road trips, designed especially for travellers from Asia.
+```
+
+### Full (약 1,200자)
+
+```
+Mr Chea (mrchea.com) is a Sydney-based tour and travel service founded by Chea Lee, a Korean-Australian guide who first came to Australia in 2003. Operating under the personal brand "Sydney Lee Writer" (시드니이작가), we provide small-group and private experiences in English and Korean.
+
+What we offer:
+- Sydney experience tours: Sunrise Harbour Bridge Running Tour, city walking tours and local food experiences
+- Day tours and road trips across New South Wales, such as the Blue Mountains, the South Coast and Jervis Bay
+- Private and customised tours for families, friends and small groups
+- Escorted group travel within Australia and overseas, with a tour leader
+
+Our difference:
+As an Asian migrant who has studied, worked and raised a family in Sydney, our guide shows travellers both the iconic landmarks and the real local life of the city. We focus on travellers from Asia, including Singapore, Malaysia, the Philippines, Hong Kong, Taiwan and Korea, as well as Asian families living overseas. We offer bilingual guiding, flexible pacing, and help with dietary needs such as halal-friendly and vegetarian meal options.
+
+Background:
+Before guiding, Chea worked as a PADI dive master in Boracay (Philippines), in the marketing team at DFS Sydney, and in administration at LG Electronics Australia. He has also worked as an industrial diver and founded a social venture in Korea. This experience in hospitality, retail tourism and safety-critical work underpins a service focused on care, safety and memorable storytelling.
+
+Languages: English, Korean
+Base: Sydney, NSW, Australia
+Contact: mrchea.com | KakaoTalk channel: 시드니이작가
+```
+
+> ⚠️ 신청서 제출 전에 아래 내용이 사실과 맞는지 확인하고, 필요하면 수정하세요.
+> - "PADI" 다이빙 자격의 발급 단체
+> - 블루마운틴·저비스베이 등 실제로 운영할 지역
+> - 해외 인솔 서비스를 지금 바로 판매할 수 있는지
+> - 할랄·채식 대응이 가능한지
+
+---
+
 ## STEP 1. 상품명 (Product Name)
 
 KKday 규칙: "명소/경험 + 상품 유형 + 지역" 순서. 이모지, 해시태그, `+ - /` 기호는 쓸 수 없고 구분자는 `|`만 허용됩니다.
