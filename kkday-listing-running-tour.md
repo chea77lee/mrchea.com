@@ -31,7 +31,7 @@ Mr Chea (mrchea.com) is a Sydney-based tour operator run by Chea Lee, a bilingua
 ### Full (약 1,200자)
 
 ```
-Mr Chea (mrchea.com) is a Sydney-based tour and travel service founded by Chea Lee, a Korean-Australian guide who first came to Australia in 2003. Operating under the personal brand "Sydney Lee Writer" (시드니이작가), we provide small-group and private experiences in English and Korean.
+Mr Chea (mrchea.com) is a Sydney-based tour and travel service founded by Chea Lee, a Korean-Australian guide who first came to Australia in 2003. Operating under the personal brand "Sydney Writer Lee" (시드니이작가), we provide small-group and private experiences in English and Korean.
 
 What we offer:
 - Sydney experience tours: Sunrise Harbour Bridge Running Tour, city walking tours and local food experiences
@@ -43,7 +43,7 @@ Our difference:
 As an Asian migrant who has studied, worked and raised a family in Sydney, our guide shows travellers both the iconic landmarks and the real local life of the city. We focus on travellers from Asia, including Singapore, Malaysia, the Philippines, Hong Kong, Taiwan and Korea, as well as Asian families living overseas. We offer bilingual guiding, flexible pacing, and help with dietary needs such as halal-friendly and vegetarian meal options.
 
 Background:
-Before guiding, Chea worked as a PADI dive master in Boracay (Philippines), in the marketing team at DFS Sydney, and in administration at LG Electronics Australia. He has also worked as an industrial diver and founded a social venture in Korea. This experience in hospitality, retail tourism and safety-critical work underpins a service focused on care, safety and memorable storytelling.
+Before guiding, Chea worked as a PADI dive master in Boracay (Philippines), in the marketing team at DFS Sydney, and in administration at LG Electronics Australia. Chea has also worked as an industrial diver and founded a social venture in Korea. This experience in hospitality, retail tourism and safety-critical work underpins a service focused on care, safety and memorable storytelling.
 
 Languages: English, Korean
 Base: Sydney, NSW, Australia
