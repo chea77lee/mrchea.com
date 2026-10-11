@@ -12,17 +12,17 @@ Copy each value into the matching field.
 | Additional categories | `Tour operator`, `Travel agency`, `Sightseeing tour agency` |
 | Do customers visit your location? | **No** (service-area business, address hidden) |
 | Service areas | `Sydney NSW`, `New South Wales`, `Australia` |
-| Phone | `+61 431 468 373` |
+| Phone | Country `Australia (+61)` selected, then type `0431 468 373` (don't paste +61 again) |
 | Website | `https://mrchea.com/en/` |
 | WhatsApp (Social profiles → WhatsApp) | `https://wa.me/61431468373` |
 | Hours | Mon–Sun 07:00–21:00 (adjust to when you reply to enquiries) |
 | Languages / attributes | Korean, English · Online appointments · Identifies as Asian-owned (optional) |
 | Opening date | 2019 |
 
-## 2. Business description (max 750 characters — this one is 590)
+## 2. Business description (max 750 characters — this one is 595)
 
 ```
-Private and small-group tours in Sydney with Mr Chea (Chae-ryong Lee), a local guide who first came to Australia in 2003 and guides in Korean and English. Day tours include Blue Mountains trekking, Hunter Valley wineries, Royal National Park & Wollongong, a sunrise Sydney running tour, an Opera House humanities tour, rock pool swimming, and golf and food concierge days. We also lead multi-day road trips from Sydney to Melbourne, the Gold Coast, Tasmania, Perth and Uluru, plus Australia–New Zealand combo tours. Itineraries and prices at mrchea.com. Message us on WhatsApp or KakaoTalk.
+Private and small-group tours in Sydney with Mr Chea (Chae-ryong Lee), a local guide who first came to Australia in 2003 and guides in Korean and English. Day tours include Blue Mountains trekking, Hunter Valley wineries, Royal National Park & Wollongong, a sunrise Sydney running tour, an Opera House humanities tour, rock pool swimming, and golf and food concierge days. We also lead multi-day road trips from Sydney to Melbourne, the Gold Coast, Tasmania, Perth and Uluru, plus Australia-New Zealand combo tours. Itineraries and prices are on our website. Message us on WhatsApp or KakaoTalk.
 ```
 
 ## 3. Services (Edit services → Add custom service)

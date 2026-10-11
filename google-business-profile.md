@@ -12,7 +12,7 @@
 | 추가 카테고리 | `Tour operator`, `Travel agency`, `Sightseeing tour agency` |
 | 매장 방문 가능? | **아니요** (사무실 주소 비공개 → 서비스 지역 비즈니스) |
 | 서비스 지역 | `Sydney NSW`, `New South Wales`, `Australia` (최대 20개, 국가 단위도 가능) |
-| 전화 | `+61 431 468 373` |
+| 전화 | 국가 `Australia (+61)` 선택 후 `0431 468 373` 입력 (+61 중복 입력 금지) |
 | 웹사이트 | `https://mrchea.com/` |
 | WhatsApp (소셜 프로필 → WhatsApp) | `https://wa.me/61431468373` |
 | 운영 시간 | 예: 월–일 07:00–21:00 (카톡 상담 가능 시간 기준으로 조정) |
@@ -23,12 +23,12 @@
 
 한국어 (약 330자):
 ```
-시드니 현지 한인 가이드 이채룡(시드니이작가)이 직접 안내하는 소규모 프라이빗 투어입니다. 2003년 호주에 와서 DFS·LG전자 호주법인을 거쳐 2019년부터 시드니에서 가이드로 일하고 있어요. 블루마운틴 트레킹, 헌터밸리 와이너리, 로열국립공원·울릉공 데이투어부터 시드니 러닝투어, 오페라하우스 인문학 투어, 골프·미식 컨시어지까지 준비되어 있습니다. 시드니–멜버른·골드코스트·태즈매니아·퍼스 로드트립, 울루루 아웃백, 뉴질랜드 남·북섬 콤보 일정도 인솔합니다. 일정과 가격은 mrchea.com에서 확인하고, 카카오톡 채널 '시드니이작가'로 편하게 상담하세요.
+시드니 현지 한인 가이드 이채룡(시드니이작가)이 직접 안내하는 소규모 프라이빗 투어입니다. 2003년 호주에 와서 DFS·LG전자 호주법인을 거쳐 2019년부터 시드니에서 가이드로 일하고 있어요. 블루마운틴 트레킹, 헌터밸리 와이너리, 로열국립공원·울릉공 데이투어부터 시드니 러닝투어, 오페라하우스 인문학 투어, 골프·미식 컨시어지까지 준비되어 있습니다. 시드니–멜버른·골드코스트·태즈매니아·퍼스 로드트립, 울루루 아웃백, 뉴질랜드 남·북섬 콤보 일정도 인솔합니다. 일정과 가격은 홈페이지에서 확인하고, 카카오톡 채널 '시드니이작가'로 편하게 상담하세요.
 ```
 
 English (약 560자, 영어 검색용 — 하나만 쓴다면 한국어 권장):
 ```
-Private and small-group tours in Sydney led by Korean-speaking local guide Chae-ryong Lee (Sydney Lee Writer). Day tours include Blue Mountains trekking, Hunter Valley wineries, Royal National Park & Wollongong, a Sydney sunrise running tour and an Opera House humanities tour, plus golf and food concierge. We also lead multi-day road trips from Sydney to Melbourne, the Gold Coast, Tasmania, Perth and Uluru, and Australia–New Zealand combo tours. See itineraries and prices at mrchea.com and chat with us on KakaoTalk.
+Private and small-group tours in Sydney led by Korean-speaking local guide Chae-ryong Lee (Sydney Lee Writer). Day tours include Blue Mountains trekking, Hunter Valley wineries, Royal National Park & Wollongong, a Sydney sunrise running tour and an Opera House humanities tour, plus golf and food concierge. We also lead multi-day road trips from Sydney to Melbourne, the Gold Coast, Tasmania, Perth and Uluru, and Australia–New Zealand combo tours. See itineraries and prices on our website and chat with us on KakaoTalk.
 ```
 
 ## 3. 서비스(상품) 등록 – "서비스" 탭
