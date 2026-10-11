@@ -19,10 +19,10 @@ Copy each value into the matching field.
 | Languages / attributes | Korean, English · Online appointments · Identifies as Asian-owned (optional) |
 | Opening date | 2019 |
 
-## 2. Business description (max 750 characters — this one is 592)
+## 2. Business description (max 750 characters — this one is 590)
 
 ```
-Private and small-group tours in Sydney with Mr Chea (Chae-ryong Lee), a local guide who has lived in Australia since 2003 and guides in Korean and English. Day tours include Blue Mountains trekking, Hunter Valley wineries, Royal National Park & Wollongong, a sunrise Sydney running tour, an Opera House humanities tour, rock pool swimming, and golf and food concierge days. We also lead multi-day road trips from Sydney to Melbourne, the Gold Coast, Tasmania, Perth and Uluru, plus Australia–New Zealand combo tours. Itineraries and prices at mrchea.com. Message us on WhatsApp or KakaoTalk.
+Private and small-group tours in Sydney with Mr Chea (Chae-ryong Lee), a local guide who first came to Australia in 2003 and guides in Korean and English. Day tours include Blue Mountains trekking, Hunter Valley wineries, Royal National Park & Wollongong, a sunrise Sydney running tour, an Opera House humanities tour, rock pool swimming, and golf and food concierge days. We also lead multi-day road trips from Sydney to Melbourne, the Gold Coast, Tasmania, Perth and Uluru, plus Australia–New Zealand combo tours. Itineraries and prices at mrchea.com. Message us on WhatsApp or KakaoTalk.
 ```
 
 ## 3. Services (Edit services → Add custom service)
