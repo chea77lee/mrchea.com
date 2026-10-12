@@ -39,23 +39,25 @@
 
 ## 3. 실행 체크리스트 (순서대로)
 
-### STEP 1: 랜딩페이지 2개 업로드 ✅ 파일 완성
+> **2026-10-12 진행 상황**: STEP 1~4는 `mrchea-site 6/` 폴더에 모두 반영했습니다. 이 폴더 전체를 Cloudflare에 다시 배포하면 됩니다.
+> 투어 운영 방식(기본 조인투어, 원하면 프라이빗 가능, 영어 진행 가능)에 맞춰 문구를 썼습니다.
+
+### STEP 1: 랜딩페이지 2개 업로드 ✅ 반영 완료
 | 파일 | 올릴 주소 | 노리는 검색어 |
 |---|---|---|
-| `site/private-tour/index.html` | https://mrchea.com/private-tour/ | 시드니 프라이빗 투어, 시드니 한국어 가이드, 시드니 단독 투어 |
-| `site/en/private-tour/index.html` | https://mrchea.com/en/private-tour/ | Sydney private tour, Korean speaking guide Sydney, English and Korean speaking tour guide |
+| `mrchea-site 6/private-tour/index.html` | https://mrchea.com/private-tour/ | 시드니 프라이빗 투어, 시드니 한국어 가이드, 시드니 단독 투어 |
+| `mrchea-site 6/en/private-tour/index.html` | https://mrchea.com/en/private-tour/ | Sydney private tour, Korean speaking guide Sydney, English and Korean speaking tour guide |
 
 - 기존 사이트의 `/assets/style.css`와 `/img/`를 그대로 씁니다. 사이트 소스 폴더의 같은 위치에 복사해서 배포하면 됩니다.
 - 둘 다 FAQPage·Service·BreadcrumbList 구조화 데이터가 들어 있습니다.
-- ⚠️ 확인 필요: "모든 투어가 일행 단독(프라이빗)으로 진행된다", "영어로도 진행 가능"이라고 썼습니다. 사실과 다르면 알려주세요. 바로 고치겠습니다.
 
-### STEP 2: sitemap.xml에 4줄 추가
+### STEP 2: sitemap.xml에 2줄 추가 ✅ 반영 완료
 ```xml
   <url><loc>https://mrchea.com/private-tour/</loc><lastmod>2026-10-12</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://mrchea.com/en/private-tour/</loc><lastmod>2026-10-12</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
 ```
 
-### STEP 3: 홈페이지 수정 (`index.html`, `en/index.html`)
+### STEP 3: 홈페이지 수정 (`index.html`, `en/index.html`) ✅ 반영 완료 (실제 문구는 조인/프라이빗 선택에 맞게 조정)
 
 **한국어 홈 `<title>` / description**
 ```html
@@ -87,7 +89,7 @@ og:title, og:description도 같은 문구로 바꿔 주세요.
 "alternateName": ["Mr Chea", "mrchea.com", "시드니이작가"]
 ```
 
-### STEP 4: 투어 페이지 22개에 FAQPage 구조화 데이터 추가
+### STEP 4: 투어 페이지 FAQ·제목 개선 ✅ 반영 완료 (FAQPage는 이미 있었고, 프라이빗·언어 질문을 추가해 재생성)
 각 투어 페이지에 이미 FAQ(`<details>`)가 있으므로, 같은 내용을 FAQPage JSON-LD로도 넣습니다.
 사이트를 생성하는 스크립트에 한 번만 추가하면 됩니다. 투어 페이지 `<title>`에도
 "프라이빗" 또는 "Private"를 넣는 것을 권장합니다. 예:
@@ -118,6 +120,7 @@ og:title, og:description도 같은 문구로 바꿔 주세요.
 - 3~6개월: 리뷰가 쌓이면 지도 결과와 짧은 검색어에서 순위 상승
 
 ## 5. 다음에 같이 할 일
-- [ ] 사이트 소스(생성 스크립트) 위치 공유 → STEP 3, 4를 직접 코드로 반영
+- [x] 사이트 소스 공유 → STEP 1~4 반영 완료
+- [ ] `mrchea-site 6` 폴더를 Cloudflare에 배포
 - [ ] Search Console 연결 후 2주 뒤 실제 검색어 데이터를 보고 페이지 문구 조정
 - [ ] 영어 블로그 글 첫 편 작성

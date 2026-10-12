@@ -32,3 +32,12 @@
 - 배포할 때 `en` 폴더도 함께 올리세요. sitemap.xml 주소는 44개가 보여야 합니다.
 - 영어판 브랜드명은 mrchea.com, 가이드 이름은 Mr Chea 로 통일했습니다.
 - 한국어 홈의 '내 손으로 짜는 여행' 섹션(AI 일정 빌더·공항 픽업·항공권·호텔)은 chea.travelmartnz.com 으로 연결됩니다. (트래블마트가 한국어 전용이라 영어판에는 넣지 않았습니다.)
+
+## 7. 프라이빗 투어 SEO 업데이트 — 2026-10-12
+- 새 페이지: mrchea.com/private-tour/ (한국어) · mrchea.com/en/private-tour/ (영어)
+  - 노리는 검색어: 시드니 프라이빗 투어 · 한국어 가이드 / Sydney private tour · Korean & English speaking guide
+- 한·영 홈: 제목·설명을 "프라이빗 투어 · 한국어(영어) 가이드" 중심으로 변경, 데이투어 섹션에 프라이빗 안내 링크 추가
+- 모든 페이지 상단 메뉴에 "프라이빗 투어 / Private tours" 추가
+- 투어 페이지 42개: 제목·설명에 키워드 추가, FAQ에 "프라이빗 진행 가능?"(데이투어), "안내 언어?"(전체) 질문 추가
+- sitemap.xml 주소는 이제 46개가 보여야 합니다.
+- 배포 후 Google Search Console에서 sitemap 다시 제출 + 두 새 주소 "색인 생성 요청"
